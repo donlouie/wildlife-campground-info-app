@@ -4,10 +4,10 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Completed web development project from The Web Developer Bootcamp 2021-Colt Steele
+Campground sharing website containing Philippines Campgrounds. Based on web development project from Colt Steele The Web Developer Bootcamp 2022.
 
 ### 🖼️ Image Preview
-![Imgur](https://i.imgur.com/tzl1Kbd.png)
+![Imgur](https://i.imgur.com/S3V58nl.png)
 
 
 ### 🏗️ Built With
