@@ -4,7 +4,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Campground sharing website containing Philippines Campgrounds. Based on web development project from Colt Steele The Web Developer Bootcamp 2022.
+Location sharing website w/ cluster map(mapbox api), mongodb w/ cloudinary image upload, and complete crud functionality. Based on web development project from Colt Steele The Web Developer Bootcamp 2022.
 
 ### 🖼️ Image Preview
 ![Imgur](https://i.imgur.com/S3V58nl.png)
