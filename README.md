@@ -4,7 +4,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Philippines campground information app w/ cluster map.
+Philippines campground sharing app built using Nodejs, MongoDB, EJS, and Mapbox API
 
 ### 🖼️ Image Preview
 ![Imgur](https://i.imgur.com/S3V58nl.png)
