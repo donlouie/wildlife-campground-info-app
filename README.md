@@ -4,7 +4,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Location/Campground sharing website w/ cluster map(mapbox api), mongodb w/ cloudinary image upload, and complete crud functionality. Based on web development project from Colt Steele The Web Developer Bootcamp 2022.
+Philippines campground information app w/ cluster map.
 
 ### 🖼️ Image Preview
 ![Imgur](https://i.imgur.com/S3V58nl.png)
