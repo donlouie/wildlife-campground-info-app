@@ -1,8 +1,6 @@
 <% layout('/layouts/boilerplate.ejs') %>
 
-<div
-	class="container justify-content-center align-items-center shadow-sm p-3 mb-5 bg-white rounded"
->
+<div class="container justify-content-center align-items-center shadow-sm p-3 mb-5 bg-white rounded">
 	<div class="row">
 		<h1 class="text-center">New Campground</h1>
 		<div class="col-6 offset-3">
@@ -17,34 +15,20 @@
 				<!--* Title  -->
 				<div class="mb-3">
 					<label class="form-label" for="title">Title</label>
-					<input
-						class="form-control"
-						type="text"
-						id="title"
-						name="campground[title]"
-						required
-					/>
+					<input class="form-control" type="text" id="title" name="campground[title]" required />
 					<div class="valid-feedback">Looks good!</div>
 				</div>
 				<!--* Location  -->
 				<div class="mb-3">
 					<label class="form-label" for="location">Location</label>
-					<input
-						class="form-control"
-						type="text"
-						id="location"
-						name="campground[location]"
-						required
-					/>
+					<input class="form-control" type="text" id="location" name="campground[location]" required />
 					<div class="valid-feedback">Looks good!</div>
 				</div>
 				<!--* Price  -->
 				<div class="mb-3">
-					<label class="form-label" for="price"
-						>Campground Price</label
-					>
+					<label class="form-label" for="price">Campground Price</label>
 					<div class="input-group">
-						<span class="input-group-text" id="price">$</span>
+						<span class="input-group-text" id="price">₱</span>
 						<input
 							type="text"
 							class="form-control"
@@ -60,9 +44,7 @@
 				</div>
 				<!--* Description  -->
 				<div class="mb-3">
-					<label class="form-label" for="description"
-						>Description</label
-					>
+					<label class="form-label" for="description">Description</label>
 					<textarea
 						class="form-control"
 						type="text"
@@ -75,19 +57,9 @@
 				</div>
 				<!--* Image Url  -->
 				<div class="mb-3">
-					<label for="formFileMultiple" class="form-label"
-						>Upload Images</label
-					>
-					<input
-						type="file"
-						class="form-control"
-						id="formFileMultiple"
-						name="image"
-						multiple
-					/>
-					<div class="invalid-feedback">
-						This campground would look much better with a picture.
-					</div>
+					<label for="formFileMultiple" class="form-label">Upload Images</label>
+					<input type="file" class="form-control" id="formFileMultiple" name="image" multiple />
+					<div class="invalid-feedback">This campground would look much better with a picture.</div>
 				</div>
 				<!-- <input type="file" name="image" id="" multiple /> -->
 				<!-- <div class="mb-3">
